@@ -4,7 +4,7 @@ import { Animated, Pressable, StyleSheet } from 'react-native';
 import * as Haptics from 'expo-haptics';
 
 const AWAKEN_LINE = 'The child of Bhaal has awoken';
-const STIR_LINE = 'The Absolute calls to you…';
+const STIR_LINE = 'It is time for more.......experiments';
 
 export default function App() {
   // Opacity of the main line, driven from 0 -> 1 on launch (the awakening).
